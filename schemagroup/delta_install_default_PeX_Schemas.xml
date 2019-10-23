@@ -1,0 +1,11 @@
+<schemagroup>
+	<ucname>delta_install_default</ucname>
+	<tablegroup>PeX_Schemas</tablegroup>
+	<tablename>RspecSave</tablename>
+	<tablename>RspecSel</tablename>
+	<tablename>RspecSele</tablename>
+	<tablename>RspecTab</tablename>
+	<tablename>batchExc</tablename>
+	<tablename>exclBatches</tablename>
+	<tablename>inspLotExc</tablename>
+</schemagroup>

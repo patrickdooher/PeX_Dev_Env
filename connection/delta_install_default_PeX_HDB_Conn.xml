@@ -1,0 +1,13 @@
+<connection>
+	<ucname>delta_install_default</ucname>
+	<connection>PeX_HDB_Conn</connection>
+	<host>ip-172-31-17-190.eu-west-1.compute.internal</host>
+	<port>7002</port>
+	<user></user>
+	<pass></pass>
+	<dbname></dbname>
+	<dbtype>q</dbtype>
+	<tls></tls>
+	<dataconnectiongroup>PeX_con_group</dataconnectiongroup>
+	<primarystatus>primary</primarystatus>
+</connection>

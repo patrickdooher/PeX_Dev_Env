@@ -1,0 +1,27 @@
+<user>
+	<delta>
+		<user>cdinsmore</user>
+		<password>c62ac6338aabcfab9b9b620ec0685415619c43edc9a515db20c45f70c4a18b69</password>
+		<ip>*</ip>
+		<maxAttempts></maxAttempts>
+		<minHistory></minHistory>
+		<minLength></minLength>
+		<maxLength></maxLength>
+		<duration></duration>
+		<policyType>Custom</policyType>
+		<policyUserGroup></policyUserGroup>
+		<inheritPolicy>0</inheritPolicy>
+		<authType></authType>
+		<logging>0</logging>
+		<email></email>
+		<policy>
+			<cLower>0</cLower>
+			<cUpper>0</cUpper>
+			<number>0</number>
+			<special>0</special>
+		</policy>
+		<salt>703bbcac43960139b543def17f5d62748a551e32884d77e6c0ea46ace081cb6d</salt>
+		<ugroup>Administrators</ugroup>
+		<ugroup>PeX_Admin</ugroup>
+	</delta>
+</user>

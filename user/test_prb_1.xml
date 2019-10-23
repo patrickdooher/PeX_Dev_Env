@@ -1,0 +1,26 @@
+<user>
+	<delta>
+		<user>test_prb_1</user>
+		<password>2cb847d87b7bf2348875a0acc20da0ded1a364d9f492f7a7269994910589d61d</password>
+		<ip>*</ip>
+		<maxAttempts></maxAttempts>
+		<minHistory></minHistory>
+		<minLength></minLength>
+		<maxLength></maxLength>
+		<duration></duration>
+		<policyType></policyType>
+		<policyUserGroup></policyUserGroup>
+		<inheritPolicy>0</inheritPolicy>
+		<authType></authType>
+		<logging>0</logging>
+		<email></email>
+		<policy>
+			<cLower>0</cLower>
+			<cUpper>0</cUpper>
+			<number>0</number>
+			<special>0</special>
+		</policy>
+		<salt>27ec2ed0f97b6fa5045a3422b57282c78373cbb862093a21e7bdc29cb1e46dee</salt>
+		<ugroup>PeX_UG_ProductReviewBoardPRB</ugroup>
+	</delta>
+</user>

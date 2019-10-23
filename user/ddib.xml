@@ -1,0 +1,27 @@
+<user>
+	<delta>
+		<user>ddib</user>
+		<password>dd8bd30c8a8e6a1e4472cc8ad95e5c624db6c2f9d8b43733bdcdc56aec68415d</password>
+		<ip>*</ip>
+		<maxAttempts></maxAttempts>
+		<minHistory></minHistory>
+		<minLength></minLength>
+		<maxLength></maxLength>
+		<duration></duration>
+		<policyType>Custom</policyType>
+		<policyUserGroup></policyUserGroup>
+		<inheritPolicy>0</inheritPolicy>
+		<authType></authType>
+		<logging>0</logging>
+		<email></email>
+		<policy>
+			<cLower>0</cLower>
+			<cUpper>0</cUpper>
+			<number>0</number>
+			<special>0</special>
+		</policy>
+		<salt>3e2a1ba4bd8e1b261b9838b67ba1a3d26703c3c04d2f69eacb719e259db23af8</salt>
+		<ugroup>Administrators</ugroup>
+		<ugroup>PeX_Admin</ugroup>
+	</delta>
+</user>

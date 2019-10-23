@@ -1,0 +1,26 @@
+<user>
+	<delta>
+		<user>pdooher</user>
+		<password>dd9f2afed729879fd977de40a85ceeea94732729fd11e515f5c48e07b080ae50</password>
+		<ip>*</ip>
+		<maxAttempts></maxAttempts>
+		<minHistory></minHistory>
+		<minLength></minLength>
+		<maxLength></maxLength>
+		<duration></duration>
+		<policyType></policyType>
+		<policyUserGroup></policyUserGroup>
+		<inheritPolicy>0</inheritPolicy>
+		<authType></authType>
+		<logging>0</logging>
+		<email></email>
+		<policy>
+			<cLower>0</cLower>
+			<cUpper>0</cUpper>
+			<number>0</number>
+			<special>0</special>
+		</policy>
+		<salt>7a686bd06280daadb28e9d794c5cd0d7090d5cf6a5f9b5ab26dc99b5de143224</salt>
+		<ugroup>Administrators</ugroup>
+	</delta>
+</user>

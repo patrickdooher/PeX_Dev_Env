@@ -1,0 +1,26 @@
+<user>
+	<delta>
+		<user>test_datastewart_1</user>
+		<password>60ce6ef82e0781520acef524ccf995f4029eada764e11da91f29dfa0d637b749</password>
+		<ip>*</ip>
+		<maxAttempts></maxAttempts>
+		<minHistory></minHistory>
+		<minLength></minLength>
+		<maxLength></maxLength>
+		<duration></duration>
+		<policyType>Custom</policyType>
+		<policyUserGroup></policyUserGroup>
+		<inheritPolicy>0</inheritPolicy>
+		<authType></authType>
+		<logging>0</logging>
+		<email></email>
+		<policy>
+			<cLower>0</cLower>
+			<cUpper>0</cUpper>
+			<number>0</number>
+			<special>0</special>
+		</policy>
+		<salt>7f59a8228f388b07cbec1d12f4de82eeb7f59e57828ab929b9bba5394e0b5a3c</salt>
+		<ugroup>PeX_UG_DataSteward</ugroup>
+	</delta>
+</user>

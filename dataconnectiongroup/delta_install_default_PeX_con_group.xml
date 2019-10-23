@@ -1,0 +1,16 @@
+<dataconnectiongroup>
+	<ucname>delta_install_default</ucname>
+	<grpid>PeX_con_group</grpid>
+	<key>
+		<keyname>DBS</keyname>
+		<val>PeX_HDB_Conn,</val>
+	</key>
+	<key>
+		<keyname>CONN_SELECTOR</keyname>
+		<val>DEFAULT</val>
+	</key>
+	<key>
+		<keyname>PRIMARY</keyname>
+		<val>primary,</val>
+	</key>
+</dataconnectiongroup>
